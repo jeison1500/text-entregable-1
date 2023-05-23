@@ -12,7 +12,7 @@ const QuoteBox = ({phrase, handleChangeQuote}) => {
         
     <div>
     <button className='quoteBox__btn' onClick={handleChangeQuote}>
-      <img src="./public/images/btn.png" alt="" />
+      <img src="./public/images/btn.png" alt="imagen de boton" />
     </button>
     </div>
 
