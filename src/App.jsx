@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css'
 import dbquotes from "./db/quote.json";
-import { getRandom } from './utils/Random';
+import { getRandom } from './utils/random';
 import QuoteBox from './components/QuoteBox';
 
 const bgImages = ["bg1", "bg2", "bg3", "bg4"]
