@@ -1,0 +1,25 @@
+.quoteBox{
+    height: 200px;
+    width: 300px;
+    background-color: aliceblue;
+    opacity: 0.5;
+    border-radius: 10%;
+    color: black;
+    padding: 10px;
+}
+
+
+.quoteBox__btn{
+    align-items: center;
+    display: grid;
+    width: 30%;
+    height: 30%;
+    justify-items: center;
+    margin-left: 110px;
+    margin-bottom: 50px;
+   
+      
+
+   
+}
+
